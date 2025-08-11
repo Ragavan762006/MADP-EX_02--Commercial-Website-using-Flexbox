@@ -493,9 +493,9 @@ footer {
 
 ```
 ## OUTPUT
-http://127.0.0.1:5500/index.html
-http://127.0.0.1:5500/products.html
-http://127.0.0.1:5500/about.html
+![WhatsApp Image 2025-08-11 at 08 03 47_b8762086](https://github.com/user-attachments/assets/a277695b-c283-4b87-aa59-12f2ff1ae9a1)
+![WhatsApp Image 2025-08-11 at 08 03 47_b728cbfd](https://github.com/user-attachments/assets/5104e6a6-fe52-46f5-8cfd-037ffe152457)
+
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
