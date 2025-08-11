@@ -426,7 +426,6 @@ nav a.active {
 .product-card button:hover {
     background-color: #00bfff;
 }
-/* Reset & Base */
 * {
     margin: 0;
     padding: 0;
